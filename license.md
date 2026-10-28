@@ -209,4 +209,4 @@ running the loader without administrator rights, or from another overlay
 
 > 🧭 **Editor's note:** everything above is tested on the current 2026 build. If a step looks different on your machine, open an issue.
 
-*apex-legends-companion-pack · Updated 2026-10-27 · Shared under the MIT License*
+*apex-legends-companion-pack · Updated 2026-10-28 · Shared under the MIT License*
